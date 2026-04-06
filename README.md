@@ -5,9 +5,10 @@
 </div>
 
 <div align="center">
-  <p>Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong>
-na disciplina de <strong>Lógica de Programação</strong></p>
-
+  <p>
+    Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong><br>
+    na disciplina de <strong>Lógica de Programação</strong>
+  </p>
 </div>
 
 ---
@@ -16,7 +17,9 @@ na disciplina de <strong>Lógica de Programação</strong></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=300&lines=🧠+Conte%C3%BAdo" />
 </div>
 
--Exercícios de lógica
--Algoritmos básicos
--Práticas em programação
--Aprendizado progressivo
+<div align="center">
+- Exercícios de lógica  
+- Algoritmos básicos  
+- Práticas em programação  
+- Aprendizado progressivo  
+</div>
