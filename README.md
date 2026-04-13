@@ -7,7 +7,7 @@
 <div align="center">
   <p>
     📌 Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong><br>
-    na disciplina de <strong>Lógica de Programação</strong>
+    na disciplina de <strong>Lógica de Programação</strong>.
   </p>
 </div>
 
