@@ -34,8 +34,8 @@
 
 <div align="center">
   <p>
-    🧠 Atividade que utiliza tarefas do dia a dia para desenvolver raciocínio lógico,
-    transformando-as em algoritmos com fluxogramas e pseudocódigo.
+    🧠 Atividade que utiliza <strong>tarefas do dia a dia</strong> para desenvolver <strong>raciocínio lógico</strong>,
+    transformando-as em algoritmos com <strong>fluxogramas</strong> e <strong>pseudocódigo</strong>.
   </p>
 </div>
 
@@ -49,7 +49,6 @@
 
 <div align="center">
   <p>
-    ↪️ 🧠 Continuação da atividade, aprofundando o uso de fluxogramas, pseudocódigos,
-    variáveis, constantes e operadores, com ferramentas como draw.io e VisuAlg.
+    ↪️ 🧠 <strong>Continuação da atividade</strong>, aprofundando o uso de <strong>fluxogramas</strong>, <strong>pseudocódigos</strong>, <strong>variáveis</strong>, <strong>constantes</strong> e <strong>operadores</strong>, com ferramentas como <strong>draw.io</strong> e <strong>VisuAlg</strong>.
   </p>
 </div>
