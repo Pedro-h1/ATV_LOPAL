@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/01_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%201.docx">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/01_Fluxogramas_e_Pseudoc%C3%B3digos_Parte_1.docx">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+1" />
   </a>
 </div>
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/02_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%202.zip">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/02_Fluxogramas_e_Pseudoc%C3%B3digos_Parte_2.zip">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV2+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+2" />
   </a>
 </div>
@@ -56,13 +56,43 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/03_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%203.zip">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/03_Fluxogramas_e_Pseudoc%C3%B3digos_Parte_3.zip">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV3+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+3" />
   </a>
 </div>
 
 <div align="center">
   <p>
-    🔀 🧠 <strong>Continuação da atividade</strong>, aprofundando o uso de <strong>condicionais</strong>, <strong>fluxogramas</strong> e <strong>pseudocódigos</strong>, com ferramentas como <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>, reforçando o raciocínio lógico e a tomada de decisão nos algoritmos.
+    🔀 🧠 <strong>Continuação da atividade</strong>, aprofundando o uso de <strong>condicionais</strong>, <strong>fluxogramas</strong> e <strong>pseudocódigos</strong>, com ferramentas como <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>, com <strong>resolução de problemas mais complexos</strong>, como validações, sistemas de decisão e análise de dados reforçando o raciocínio lógico e a tomada de decisão nos algoritmos.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/04_Fluxogramas_e_Pseudoc%C3%B3digos_Parte_4.zip">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV4+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+4" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    🔁🧠 <strong>Continuação da atividade</strong>, <strong>feita em dupla</strong> e focada no uso de <strong>operadores lógicos</strong> e <strong>condições compostas</strong>, com <strong>resolução de problemas mais complexos</strong>, como validações, sistemas de decisão e análise de dados, utilizando <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/05_Avaliador+de+Investimento+Intergal%C3%A1ctico.zip">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV5+-+Avaliador+de+Investimento+Intergal%C3%A1ctico" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    🎯🧠 <strong>Desafio final de lógica</strong>, focado na criação de um sistema de decisão com <strong>múltiplas condições e regras de negócio</strong>,
+    analisando cenários com base em <strong>capital, risco, crise de mercado e segurança</strong>.<br>
+    💻 Desenvolvido com <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>, reforçando o raciocínio lógico e a construção de algoritmos mais complexos.
   </p>
 </div>
