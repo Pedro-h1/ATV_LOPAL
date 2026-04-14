@@ -26,6 +26,8 @@
 
 ---
 
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas" /></div>
+
 <div align="center">
   <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/01_Fluxogramas_e_Pseudoc%C3%B3digos_Parte_1.docx">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+1" />
