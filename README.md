@@ -27,8 +27,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/ATV_LOPAL_Pedro_Henrique.docx">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Fluxogramas+e+Pseudoc%C3%B3digos" />
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/01_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%201.docx">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+1" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/Fluxogramas%20e%20Pseudoc%C3%B3digos.zip">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/02_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%202.zip">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV2+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+2" />
   </a>
 </div>
@@ -50,5 +50,19 @@
 <div align="center">
   <p>
     ↪️ 🧠 <strong>Continuação da atividade</strong>, aprofundando o uso de <strong>fluxogramas</strong>, <strong>pseudocódigos</strong>, <strong>variáveis</strong>, <strong>constantes</strong> e <strong>operadores</strong>, com ferramentas como <strong>draw.io</strong> e <strong>VisuAlg</strong>.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Pedro-h1/ATV_LOPAL/blob/main/03_Fluxogramas%20e%20Pseudoc%C3%B3digos%20Parte%203.zip">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV3+-+Fluxogramas+e+Pseudoc%C3%B3digos+Parte+3" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    🔀 🧠 <strong>Continuação da atividade</strong>, aprofundando o uso de <strong>condicionais</strong>, <strong>fluxogramas</strong> e <strong>pseudocódigos</strong>, com ferramentas como <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>, reforçando o raciocínio lógico e a tomada de decisão nos algoritmos.
   </p>
 </div>
