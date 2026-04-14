@@ -2,7 +2,7 @@ algoritmo "Porteiro Do Evento"
 
 // Autor : Vinycius Lopes Montero da SIlva
 // Data : 14/04/2026
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 
 var
 
