@@ -1,4 +1,6 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=900&lines=📚+ATV_LOPAL;👨🏼‍💻+Atividades+de+L%C3%B3gica+de+Programa%C3%A7%C3%A3o)](https://git.io/typing-svg)</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=📚+ATV_LOPAL&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=👨🏼‍💻+Atividades+da+disciplina+de+L%C3%B3gica+de+Programa%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" />
@@ -97,4 +99,8 @@
     analisando cenários com base em <strong>capital, risco, crise de mercado e segurança</strong>.<br>
     💻 Desenvolvido com <strong>Flowgorithm</strong> e <strong>VisuAlg</strong>, reforçando o raciocínio lógico e a construção de algoritmos mais complexos.
   </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=bd93f9&animation=fadeIn" width="100%" />
 </div>
