@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=5B8DEF&text=👨🏼‍💻+ATV+—+LOPAL&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+L%C3%B3gica+de+Programa%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=👨🏼‍💻+ATV+—+LOPAL&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+L%C3%B3gica+de+Programa%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -111,5 +111,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=5B8DEF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5649ED,100:A25CED&animation=fadeIn" width="100%" />
 </div>
